@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+html{background-image:url(java.png);background-repeat:repeat;}
+a{color: red;}
+ul{color:green;}
+p{color: violet;}
+h1{color: yellow;}
+img{width: 220px;
+height: 300px;}
+ul,solid{border-style:solid;} 
+p,solid{border-style:dotted;}
+</style>
+</head>
+<body>
+<ul class="solid">
+  <li><a href="#home">Home</a></li>
+  <li><a href="#news">News</a></li>
+  <li><a href="#contact">Contact</a></li>
+  <li><a href="#about">About</a></li>
+</ul>
+<h1 style="text-align:center;">MY HACKER STORY </h1>
+<img src<img src="spider.png">
+<p class="solid">Hello friends,frist of all wellcome to my website.<mark>I AM SANTHOSHKUMAR(BSC.CS)</mark>I am try to <mark>free fire game hacking</mark> at 1 year but no understand so codeing very complecated to wrongly understand me. but codeing is very amazing one.<mark>who will be understand codeing,strongest person in the world<mark></mark> .</p>
+</body>
+</html>
